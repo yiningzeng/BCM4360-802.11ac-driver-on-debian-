@@ -3,4 +3,5 @@ https://wiki.debian.org/wl
 
 bluetooth not work
 > sudo systemctl enable bluetooth
+
 > sudo systemctl start bluetooth
